@@ -1,7 +1,8 @@
 
 <div align="center">
 
-# 🎉 Congratulations parichaykhurana! 🎉
+Hey parichaykhurana!!!!
+
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
